@@ -1,0 +1,68 @@
+/*body {
+	background: #aaa;
+}*/
+.logoicon {
+	width: 120px;
+}
+
+div {
+	display: block;
+	padding: 10px;
+}
+.area {
+	display: inline-block;
+}
+
+.navi li {
+	display: inline-block;
+}
+.menu li {
+	display: inline-block;
+	width: 210px;
+	text-align: center;
+}
+.menu{
+	background-color: blue;
+
+}
+.menu li a {
+	color: white;
+}
+.slider {
+	width: 1200px;
+	height: 400px;
+	text-align: center;
+	margin: 20px auto;
+}
+.details-submenu {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+.details-submenu-a {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	display: block;
+}
+.details-submenu ul li a {
+	color: black;
+}
+.details-submenu ul {
+	list-style-type: none;
+}
+.details-submenu ul li {
+	padding:5px;
+}
+.picture a {
+	display: inline-block;
+    width: 170px;
+    
+}
+.navi li {
+	text-align: left;
+}
+.sl_slide {
+	width: 100%;
+}
